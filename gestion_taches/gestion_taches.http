@@ -1,0 +1,6 @@
+@gestion_taches_HostAddress = http://localhost:5004
+
+GET {{gestion_taches_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,1211 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEABE4-9C64-4029-B332-0B6587F00276}|gestion_taches.Data\\gestion_taches.Data.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.data\\context\\gestiontachescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CEABE4-9C64-4029-B332-0B6587F00276}|gestion_taches.Data\\gestion_taches.Data.csproj|solutionrelative:gestion_taches.data\\context\\gestiontachescontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches\\controllers\\ressourcescontrolleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|solutionrelative:gestion_taches\\controllers\\ressourcescontrolleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|solutionrelative:gestion_taches\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches\\mapper\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|solutionrelative:gestion_taches\\mapper\\class.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches\\controllers\\projectcontrolleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|solutionrelative:gestion_taches\\controllers\\projectcontrolleur.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEABE4-9C64-4029-B332-0B6587F00276}|gestion_taches.Data\\gestion_taches.Data.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CEABE4-9C64-4029-B332-0B6587F00276}|gestion_taches.Data\\gestion_taches.Data.csproj|solutionrelative:gestion_taches.data\\repository\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|solutionrelative:gestion_taches\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\dto\\projectressourcesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\dto\\projectressourcesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\dto\\ressourcesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\dto\\ressourcesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\models\\ressources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\models\\ressources.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\models\\project.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEABE4-9C64-4029-B332-0B6587F00276}|gestion_taches.Data\\gestion_taches.Data.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.data\\migrations\\20240620135946_migaloose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CEABE4-9C64-4029-B332-0B6587F00276}|gestion_taches.Data\\gestion_taches.Data.csproj|solutionrelative:gestion_taches.data\\migrations\\20240620135946_migaloose.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\interfaces\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620133447_dfghjk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620101525_dfghjk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620072634_dfghjk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619194351_dfghjk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619194208_dfghjk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1870864E-97FC-4EB0-9917-7FF41A517B20}|gestion_taches.infra\\gestion_taches.infra.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.infra\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1870864E-97FC-4EB0-9917-7FF41A517B20}|gestion_taches.infra\\gestion_taches.infra.csproj|solutionrelative:gestion_taches.infra\\dependencycontainer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\queries\\getgenericquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\queries\\getgenericquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\commands\\removegenericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\commands\\removegenericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619172241_dfghjk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619172110_dfghjk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171952_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171542_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171458_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171341_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619155503_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619154658_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619144942_mmmmmm555555555.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619142009_mmmmmm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141454_mmmmmm.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141307_megop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141003_megop.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619140224_megol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619140131_megol.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619135531_mego.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619135305_meg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\queries\\getlistgenericquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\queries\\getlistgenericquery.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|solutionrelative:gestion_taches\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619104425_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619104351_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619102139_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619081955_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619073400_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{FDD9D207-78C7-4195-BF98-2F29F9D4066B}|gestion_taches\\gestion_taches.Api.csproj|solutionrelative:gestion_taches\\appsettings.development.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619073313_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240618130608_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1870864E-97FC-4EB0-9917-7FF41A517B20}|gestion_taches.infra\\gestion_taches.infra.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.infra\\gestion_taches.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{1870864E-97FC-4EB0-9917-7FF41A517B20}|gestion_taches.infra\\gestion_taches.infra.csproj|solutionrelative:gestion_taches.infra\\gestion_taches.infra.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\handlers\\getgenerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\handlers\\getgenerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\handlers\\removegenerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\handlers\\removegenerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\handlers\\putgenerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\handlers\\putgenerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\handlers\\getlistgenerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\handlers\\getlistgenerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\handlers\\addgenerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\handlers\\addgenerichandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\commands\\putgenericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\commands\\putgenericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.domain\\commands\\addgenericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68427B02-9838-4359-AD40-EC0552585A56}|gestion_taches.Domain\\gestion_taches.Domain.csproj|solutionrelative:gestion_taches.domain\\commands\\addgenericcommand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEABE4-9C64-4029-B332-0B6587F00276}|gestion_taches.Data\\gestion_taches.Data.csproj|c:\\users\\karam\\desktop\\poulina\\gestion_taches\\gestion_taches.data\\gestion_taches.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{26CEABE4-9C64-4029-B332-0B6587F00276}|gestion_taches.Data\\gestion_taches.Data.csproj|solutionrelative:gestion_taches.data\\gestion_taches.data.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617150850_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617081602_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617081110_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617075336_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617075208_mig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152917_migalo1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152633_migalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152544_migalo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152426_migalou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616143947_migalou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616143837_migalou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616142455_migalou.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615214024_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615204451_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240614111516_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613204310_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613203857_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613203207_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613164311_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613163547_m1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613155142_m.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615205152_m3.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Class.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\mapper\\Class.cs",
+              "RelativeDocumentMoniker": "gestion_taches\\mapper\\Class.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\mapper\\Class.cs",
+              "RelativeToolTip": "gestion_taches\\mapper\\Class.cs",
+              "ViewState": "AQIAABAAAAAAAAAAAAAAACEAAABQAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:58:50.976Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "gestionTachesContext.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Data\\Context\\gestionTachesContext.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Data\\Context\\gestionTachesContext.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Data\\Context\\gestionTachesContext.cs",
+              "RelativeToolTip": "gestion_taches.Data\\Context\\gestionTachesContext.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAmwBMAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:40:09.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProjectRessourcesDto.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Dto\\ProjectRessourcesDto.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\Dto\\ProjectRessourcesDto.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Dto\\ProjectRessourcesDto.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\Dto\\ProjectRessourcesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:51:24.731Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\Program.cs",
+              "RelativeDocumentMoniker": "gestion_taches\\Program.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\Program.cs",
+              "RelativeToolTip": "gestion_taches\\Program.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAYAAAAlAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:23:29.409Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RessourcesControlleur.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\Controllers\\RessourcesControlleur.cs",
+              "RelativeDocumentMoniker": "gestion_taches\\Controllers\\RessourcesControlleur.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\Controllers\\RessourcesControlleur.cs",
+              "RelativeToolTip": "gestion_taches\\Controllers\\RessourcesControlleur.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABgAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:27:25.732Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Data\\Repository\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Data\\Repository\\GenericRepository.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Data\\Repository\\GenericRepository.cs",
+              "RelativeToolTip": "gestion_taches.Data\\Repository\\GenericRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABkAAAAMAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:41:31.26Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\appsettings.json",
+              "RelativeDocumentMoniker": "gestion_taches\\appsettings.json",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\appsettings.json",
+              "RelativeToolTip": "gestion_taches\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T15:50:01.384Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProjectControlleur.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\Controllers\\ProjectControlleur.cs",
+              "RelativeDocumentMoniker": "gestion_taches\\Controllers\\ProjectControlleur.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\Controllers\\ProjectControlleur.cs",
+              "RelativeToolTip": "gestion_taches\\Controllers\\ProjectControlleur.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAIAwwC4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:48:16.978Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "RessourcesDto.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Dto\\RessourcesDto.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\Dto\\RessourcesDto.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Dto\\RessourcesDto.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\Dto\\RessourcesDto.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA4AAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:24:47.15Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Project.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\models\\Project.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\models\\Project.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\models\\Project.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\models\\Project.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAABMAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T09:47:01.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Ressources.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\models\\Ressources.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\models\\Ressources.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\models\\Ressources.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\models\\Ressources.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAYwBIAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T06:28:08.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\interfaces\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\interfaces\\IGenericRepository.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\interfaces\\IGenericRepository.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\interfaces\\IGenericRepository.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAvwBIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:25:12.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "20240620135946_migaloose.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620135946_migaloose.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Data\\Migrations\\20240620135946_migaloose.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620135946_migaloose.cs",
+              "RelativeToolTip": "gestion_taches.Data\\Migrations\\20240620135946_migaloose.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:59:46.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20240620133447_dfghjk.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620133447_dfghjk.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620133447_dfghjk.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620133447_dfghjk.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620133447_dfghjk.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T13:34:47.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20240620101525_dfghjk.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620101525_dfghjk.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620101525_dfghjk.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620101525_dfghjk.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620101525_dfghjk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T10:15:25.446Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20240620072634_dfghjk.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620072634_dfghjk.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620072634_dfghjk.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620072634_dfghjk.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240620072634_dfghjk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-20T07:26:34.291Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "20240619194208_dfghjk.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619194208_dfghjk.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619194208_dfghjk.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619194208_dfghjk.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619194208_dfghjk.cs",
+              "ViewState": "AQIAACMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:42:09.09Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20240619194351_dfghjk.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619194351_dfghjk.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619194351_dfghjk.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619194351_dfghjk.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619194351_dfghjk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAABXAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T19:43:51.295Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "DependencyContainer.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.infra\\DependencyContainer.cs",
+              "RelativeDocumentMoniker": "gestion_taches.infra\\DependencyContainer.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.infra\\DependencyContainer.cs",
+              "RelativeToolTip": "gestion_taches.infra\\DependencyContainer.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABEAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:34:26.786Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "GetGenericQuery.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Queries\\GetGenericQuery.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\Queries\\GetGenericQuery.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Queries\\GetGenericQuery.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\Queries\\GetGenericQuery.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:24:47.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "RemoveGenericCommand.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Commands\\RemoveGenericCommand.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\Commands\\RemoveGenericCommand.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Commands\\RemoveGenericCommand.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\Commands\\RemoveGenericCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:24:31.112Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20240619172241_dfghjk.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619172241_dfghjk.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619172241_dfghjk.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619172241_dfghjk.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619172241_dfghjk.cs",
+              "ViewState": "AQIAAEYAAAAAAAAAAAAAAFkAAAATAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:22:41.775Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "20240619172110_dfghjk.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619172110_dfghjk.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619172110_dfghjk.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619172110_dfghjk.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619172110_dfghjk.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:21:10.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "20240619171952_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171952_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171952_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171952_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171952_m1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:19:52.298Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20240619171542_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171542_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171542_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171542_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171542_m1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:15:43.111Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20240619171458_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171458_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171458_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171458_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171458_m1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:14:58.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "20240619171341_m.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171341_m.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171341_m.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171341_m.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619171341_m.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T17:13:42.049Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "20240619155503_m.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619155503_m.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619155503_m.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619155503_m.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619155503_m.cs",
+              "ViewState": "AQIAAFIAAAAAAAAAAAAQwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:55:04.107Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "20240619144942_mmmmmm555555555.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619144942_mmmmmm555555555.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619144942_mmmmmm555555555.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619144942_mmmmmm555555555.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619144942_mmmmmm555555555.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:49:42.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "20240619154658_m.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619154658_m.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619154658_m.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619154658_m.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619154658_m.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T15:46:58.241Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "20240619142009_mmmmmm.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619142009_mmmmmm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619142009_mmmmmm.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619142009_mmmmmm.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619142009_mmmmmm.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAAZAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:20:09.548Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "20240619141454_mmmmmm.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141454_mmmmmm.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141454_mmmmmm.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141454_mmmmmm.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141454_mmmmmm.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:14:54.86Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "20240619141307_megop.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141307_megop.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141307_megop.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141307_megop.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141307_megop.cs",
+              "ViewState": "AQIAAAEAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:13:07.729Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "20240619141003_megop.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141003_megop.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141003_megop.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141003_megop.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619141003_megop.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:10:03.563Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "20240619140224_megol.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619140224_megol.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619140224_megol.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619140224_megol.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619140224_megol.cs",
+              "ViewState": "AQIAAEMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:02:24.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20240619140131_megol.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619140131_megol.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619140131_megol.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619140131_megol.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619140131_megol.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T14:01:31.996Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20240619135531_mego.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619135531_mego.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619135531_mego.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619135531_mego.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619135531_mego.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:55:31.145Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "20240619135305_meg.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619135305_meg.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619135305_meg.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619135305_meg.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619135305_meg.cs",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T13:53:05.704Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "GetListGenericQuery.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Queries\\GetListGenericQuery.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\Queries\\GetListGenericQuery.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Queries\\GetListGenericQuery.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\Queries\\GetListGenericQuery.cs",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAABgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:24:53.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "gestion_taches\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\Properties\\launchSettings.json",
+              "RelativeToolTip": "gestion_taches\\Properties\\launchSettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAB8AAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T16:15:43.913Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "20240619104351_m.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619104351_m.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619104351_m.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619104351_m.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619104351_m.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:43:51.303Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "20240619104425_m.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619104425_m.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619104425_m.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619104425_m.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619104425_m.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:44:25.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "20240619102139_m.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619102139_m.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619102139_m.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619102139_m.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619102139_m.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T10:21:39.692Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 46,
+              "Title": "20240619073313_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619073313_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619073313_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619073313_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619073313_m1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:33:13.653Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 44,
+              "Title": "20240619073400_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619073400_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619073400_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619073400_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619073400_m1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T07:34:00.883Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
+              "Title": "20240619081955_m.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619081955_m.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619081955_m.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619081955_m.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240619081955_m.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-19T08:19:55.762Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "appsettings.Development.json",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\appsettings.Development.json",
+              "RelativeDocumentMoniker": "gestion_taches\\appsettings.Development.json",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches\\appsettings.Development.json",
+              "RelativeToolTip": "gestion_taches\\appsettings.Development.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-06-13T15:50:24.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "20240618130608_m.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240618130608_m.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240618130608_m.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240618130608_m.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240618130608_m.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-18T13:06:08.808Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
+              "Title": "gestion_taches.infra.csproj",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.infra\\gestion_taches.infra.csproj",
+              "RelativeDocumentMoniker": "gestion_taches.infra\\gestion_taches.infra.csproj",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.infra\\gestion_taches.infra.csproj",
+              "RelativeToolTip": "gestion_taches.infra\\gestion_taches.infra.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T06:20:48.604Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "GetGenericHandler.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\handlers\\GetGenericHandler.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\handlers\\GetGenericHandler.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\handlers\\GetGenericHandler.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\handlers\\GetGenericHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:25:24.186Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "RemoveGenericHandler.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\handlers\\RemoveGenericHandler.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\handlers\\RemoveGenericHandler.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\handlers\\RemoveGenericHandler.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\handlers\\RemoveGenericHandler.cs",
+              "ViewState": "AQIAABkAAAAAAAAAAIBJwB0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:25:40.583Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "PutGenericHandler.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\handlers\\PutGenericHandler.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\handlers\\PutGenericHandler.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\handlers\\PutGenericHandler.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\handlers\\PutGenericHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:25:35.467Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "GetListGenericHandler.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\handlers\\GetListGenericHandler.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\handlers\\GetListGenericHandler.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\handlers\\GetListGenericHandler.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\handlers\\GetListGenericHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:25:30.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "AddGenericHandler.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\handlers\\AddGenericHandler.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\handlers\\AddGenericHandler.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\handlers\\AddGenericHandler.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\handlers\\AddGenericHandler.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:25:18.48Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "PutGenericCommand.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Commands\\PutGenericCommand.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\Commands\\PutGenericCommand.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Commands\\PutGenericCommand.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\Commands\\PutGenericCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:24:18.666Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "AddGenericCommand.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Commands\\AddGenericCommand.cs",
+              "RelativeDocumentMoniker": "gestion_taches.Domain\\Commands\\AddGenericCommand.cs",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Domain\\Commands\\AddGenericCommand.cs",
+              "RelativeToolTip": "gestion_taches.Domain\\Commands\\AddGenericCommand.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T06:24:08.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "gestion_taches.Data.csproj",
+              "DocumentMoniker": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Data\\gestion_taches.Data.csproj",
+              "RelativeDocumentMoniker": "gestion_taches.Data\\gestion_taches.Data.csproj",
+              "ToolTip": "C:\\Users\\karam\\Desktop\\Poulina\\gestion_taches\\gestion_taches.Data\\gestion_taches.Data.csproj",
+              "RelativeToolTip": "gestion_taches.Data\\gestion_taches.Data.csproj",
+              "ViewState": "AQIAABEAAACAAwRavggwwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-06-13T06:20:49.019Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "20240617150850_m.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617150850_m.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617150850_m.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617150850_m.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617150850_m.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T15:08:50.934Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "20240617075336_mig.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617075336_mig.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617075336_mig.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617075336_mig.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617075336_mig.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:53:37.074Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "20240617081110_mig.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617081110_mig.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617081110_mig.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617081110_mig.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617081110_mig.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:11:11.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "20240617081602_mig.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617081602_mig.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617081602_mig.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617081602_mig.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617081602_mig.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T08:16:02.252Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "20240617075208_mig.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617075208_mig.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617075208_mig.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617075208_mig.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240617075208_mig.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T07:52:08.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "20240616152917_migalo1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152917_migalo1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152917_migalo1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152917_migalo1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152917_migalo1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:29:17.824Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "20240616152633_migalo.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152633_migalo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152633_migalo.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152633_migalo.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152633_migalo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:26:33.68Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "20240616152544_migalo.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152544_migalo.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152544_migalo.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152544_migalo.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152544_migalo.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:25:44.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
+              "Title": "20240616152426_migalou.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152426_migalou.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152426_migalou.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152426_migalou.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616152426_migalou.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T15:24:26.948Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 66,
+              "Title": "20240616143947_migalou.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616143947_migalou.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616143947_migalou.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616143947_migalou.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616143947_migalou.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:39:47.723Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 67,
+              "Title": "20240616143837_migalou.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616143837_migalou.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616143837_migalou.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616143837_migalou.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616143837_migalou.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:38:38.121Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 68,
+              "Title": "20240616142455_migalou.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616142455_migalou.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616142455_migalou.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616142455_migalou.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240616142455_migalou.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-16T14:24:55.804Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
+              "Title": "20240615214024_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615214024_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615214024_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615214024_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615214024_m1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T21:40:24.836Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20240615205152_m3.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615205152_m3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615205152_m3.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615205152_m3.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615205152_m3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:51:52.849Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 70,
+              "Title": "20240615204451_m3.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615204451_m3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615204451_m3.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615204451_m3.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240615204451_m3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-15T20:44:52.033Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 71,
+              "Title": "20240614111516_m3.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240614111516_m3.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240614111516_m3.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240614111516_m3.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240614111516_m3.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-14T11:15:16.239Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "20240613204310_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613204310_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613204310_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613204310_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613204310_m1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:43:10.779Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 73,
+              "Title": "20240613203857_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613203857_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613203857_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613203857_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613203857_m1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:38:57.761Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 74,
+              "Title": "20240613203207_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613203207_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613203207_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613203207_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613203207_m1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T20:32:08.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "20240613164311_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613164311_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613164311_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613164311_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613164311_m1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:43:11.975Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "20240613163547_m1.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613163547_m1.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613163547_m1.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613163547_m1.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613163547_m1.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T16:35:47.18Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20240613155142_m.cs",
+              "DocumentMoniker": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613155142_m.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613155142_m.cs",
+              "ToolTip": "C:\\Users\\karam\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613155142_m.cs",
+              "RelativeToolTip": "..\\..\\..\\source\\repos\\gestion_taches\\gestion_taches.Data\\Migrations\\20240613155142_m.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-13T15:51:43.126Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
